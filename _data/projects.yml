@@ -34,9 +34,9 @@
   img_src: /assets/img/basketball.jpg # Optional image
   description_less: Using ML to predict NBA player performance. # Description shown at all times, text only
   description_more: > # Description shown only when the project card is expanded, HTML only
-    <p>WIP</p> 
+    <p>Created a machine learning pipeline that classifies high-scoring NBA players with 95%+ F1 score and predict score using 2023-2024 season data. <br><br> Compared multiple models and applied feature engineering to optimize prediction accuracy while gaining hands-on experience with real-world ML development.</p> 
   action_buttons: > # Action buttons for project, HTML only
-    <a href="https://www.noahcauchi.dev/2000/01/01/wip.html" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> Read More</a>
+    <a href="https://www.noahcauchi.dev/2000/01/01/nba_ai.html" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> Read More</a>
   tags: [ML, personal] # A list of tags
 
 - name: Wireless Robotics Control # Project name, also used as heading
